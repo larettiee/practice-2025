@@ -72,6 +72,19 @@ nav {
     background: var(--primary);
     color: white;
 }
+.footer .footer-link {
+    color: white;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.footer .footer-link:hover {
+    color: var(--primary);
+}
+
+.section-title {
+    margin-bottom: 2.5rem; /* Большой отступ снизу заголовка */
+}
 
 /* Hero section */
 .hero, .page-hero {
@@ -333,6 +346,7 @@ nav {
     .footer-links a {
         margin: 0.5rem 0;
     }
+}
 /* Стили для страницы журнала */
 .journal-filters {
     display: flex;
@@ -468,11 +482,6 @@ nav {
     flex: 1;
 }
 
-.resource-author {
-    color: var(--secondary);
-    margin: 0.3rem 0;
-    font-size: 0.9rem;
-}
 
 .resource-description {
     margin: 0.5rem 0 1rem;
@@ -947,19 +956,13 @@ quote cite {
 }
 
 .journal-title {
-    color: #fff;
+    color: #000000;
     margin-bottom: 15px;
     font-size: 1.5rem;
 }
 
 .journal-content {
-    color: rgba(255, 255, 255, 0.8);
+    color: rgba(0, 0, 0, 0.8);
     line-height: 1.6;
     margin-bottom: 15px;
-}
-
-.journal-author {
-    color: rgba(255, 255, 255, 0.6);
-    font-size: 0.9rem;
-    font-style: italic;
 }
