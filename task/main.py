@@ -193,7 +193,7 @@ class QuizBot:
 
 
 def main():
-    bot_token = "7967185943:AAFLxB9dkNzmnOrO8mKuq6Ik6Og69R8M8Is"  # Замените на реальный токен
+    bot_token = "7967185943:AAFLxB9dkNzmnOrO8mKuq6Ik6Og69R8M8Is" 
 
     quiz_bot = QuizBot()
 
