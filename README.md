@@ -8,7 +8,7 @@
 
 ## Задание
 
-Задание размещено в папке **task** в файле [README.md](task/README.md).
+Создан статический веб-сайт с использованием следующих технологий: HTML, CSS, JS. Доступен по ссылке: https://raw.githack.com/larettiee/practice-2025/refs/heads/master/site/index.html
 
 ## Вариативная часть задания
 
